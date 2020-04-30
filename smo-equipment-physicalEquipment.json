@@ -1,0 +1,22 @@
+{
+	"smo-equipment:physicalEquipment": {
+		"name": "nebari",
+		"label": "10.132.194.7",
+		"operationalState": "ENABLED",
+		"asapPointer": "ALL",
+		"locationName": "",
+		"geolocation": "51.5 -0.09",
+		"thermShutEnabled": false,
+		"isAutoProvisioned": false,
+		"numShelves": 0,
+		"legalShelves": [
+		  "LM1-OTN",
+		  "LM1-WDMA",
+		  "LM1-E1AGG",
+		  "LM1-ODUeHUB",
+		  "LM1-WDML",
+		  "MI-BOX"
+		],
+		"intCabling": {}
+	}
+}
